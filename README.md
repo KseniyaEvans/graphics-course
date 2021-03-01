@@ -6,10 +6,12 @@
 _____
 # Lab2
 
-<img src="/lab2/pic1.png" width="883" height="520">
+<img src="/lab2/pic1.png" width="1112" height="530">
+
 _____
 
 # Lab1
 
 <img src="/lab1/pic1.png" width="683" height="520">
+
 _____
