@@ -4,13 +4,12 @@
 ### Варіант 11
 
 _____
+# Lab2
+
+<img src="/lab2/pic1.png" width="883" height="520">
+_____
+
 # Lab1
-_Using Line:_
-
-<img src="/lab1/pic2.png" width="683" height="520">
-
-_Using Polyline:_
 
 <img src="/lab1/pic1.png" width="683" height="520">
-
 _____
