@@ -6,7 +6,7 @@
 _____
 # Lab2
 
-<img src="/lab2/pic1.png" width="1112" height="530">
+<img src="/lab2/pic1.png" width="1112" height="520">
 
 _____
 
