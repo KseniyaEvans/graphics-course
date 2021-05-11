@@ -5,6 +5,14 @@
 
 _____
 
+# Lab6
+
+<p align="center">
+  <img align="center" src="/lab6/doc/animation.gif">
+</p>
+
+_____
+
 # Lab5
 
 <p align="center">
@@ -21,7 +29,10 @@ _____
 
 # Lab3
 
-<img src="/lab3/pic.png">
+<p align="center">
+  <img align="center" src="/lab3/doc/animation.gif">
+</p>
+
 
 _____
 
