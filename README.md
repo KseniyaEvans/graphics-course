@@ -38,7 +38,10 @@ _____
 
 # Lab2
 
-<img src="/lab2/pic1.png">
+<p align="center">
+  <img align="center" src="/lab2/doc/animation.gif">
+</p>
+
 
 _____
 
